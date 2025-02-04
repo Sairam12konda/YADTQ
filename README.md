@@ -1,4 +1,4 @@
-# RR-Team-11-yadtq-yet-another-distributed-task-queue-
+# yadtq-yet-another-distributed-task-queue-
 
 Kafka and redis should be installed
 First run yadtq.py file
